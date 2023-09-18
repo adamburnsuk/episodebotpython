@@ -1,0 +1,7 @@
+PyMySQL==1.1.0
+SQLAlchemy==1.4.20
+feedparser==6.0.8
+requests==2.26.0
+eyed3==0.9.6
+# ... any other dependencies
+
